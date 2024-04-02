@@ -8,7 +8,6 @@
 ![Ansible](https://img.shields.io/badge/-ansible-EE0000?logo=ansible&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/-ubiquiti-0559C9?logo=ubiquiti&logoColor=white)
-![IBM](https://img.shields.io/badge/-ibm-052FAD?logo=ibm&logoColor=white)
 
 ### Dev
 
