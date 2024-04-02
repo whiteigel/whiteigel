@@ -5,7 +5,7 @@
 ![Postgres](https://img.shields.io/badge/-postgresql-4169e1?logo=postgresql&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-grafana-f46800?logo=grafana&logoColor=white)
 
-### DEV
+### Dev
 
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter-F37626?logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-pycharm-grey?logo=pycharm&logoColor=white)
