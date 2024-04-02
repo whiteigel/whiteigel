@@ -14,9 +14,9 @@
 
 ## Langs
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![C#](https://img.shields.io/badge/c#-green)
+![Python](https://img.shields.io/badge/python-turquoise)
+![Markdown](https://img.shields.io/badge/python-black)
 
 
 
