@@ -1,6 +1,7 @@
 ### Tex
 
-![Docker](https://img.shields.io/badge/-docker-2496ed?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-2496ed?logo=docker&logoColor=white)\
+![Portainer](https://img.shields.io/badge/-portainer-13BEF9?logo=portainer&logoColor=white)
 ![Rancher](https://img.shields.io/badge/-rancher-0075a8?logo=rancher&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-postgresql-4169e1?logo=postgresql&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-grafana-f46800?logo=grafana&logoColor=white)
