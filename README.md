@@ -2,6 +2,6 @@
 
 ##Languages
 
-![https://img.shields.io/badge/typical-salesperson-blue]
+!(https://img.shields.io/badge/typical-salesperson-blue)
 
 
