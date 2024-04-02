@@ -13,16 +13,16 @@
 
 ### Langs
 
-![C#](https://img.shields.io/badge/c-green)
-![Python](https://img.shields.io/badge/python-turquoise)
-![Markdown](https://img.shields.io/badge/markdown-grey)
-![HTML](https://img.shields.io/badge/html-orange)
-![CSS](https://img.shields.io/badge/css-blue)
+![C#](https://img.shields.io/badge/-csharp-00599C?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/-markdown-grey?logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white)
 
 ### Me
 
-![](https://img.shields.io/badge/typical-salesperson-blue)
-![](https://img.shields.io/badge/oss-enthusiast-red)
-![](https://img.shields.io/badge/swimbikerun-green)
+![Salesperson](https://img.shields.io/badge/typical-salesperson-blue)
+![OSS Enthusiast](https://img.shields.io/badge/oss-enthusiast-red)
+![Triathlete](https://img.shields.io/badge/swimbikerun-green)
 
 
