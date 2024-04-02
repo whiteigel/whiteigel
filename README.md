@@ -5,6 +5,8 @@
 ![Rancher](https://img.shields.io/badge/-rancher-0075a8?logo=rancher&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-postgresql-4169e1?logo=postgresql&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-grafana-f46800?logo=grafana&logoColor=white)
+![Ansible](https://img.shields.io/badge/-ansible-EE0000?logo=ansible&logoColor=white)
+
 
 ### Dev
 
