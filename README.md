@@ -17,6 +17,8 @@
 ![C#](https://img.shields.io/badge/c-green)
 ![Python](https://img.shields.io/badge/python-turquoise)
 ![Markdown](https://img.shields.io/badge/markdown-grey)
+![HTML](https://img.shields.io/badge/html-orange)
+![CSS](https://img.shields.io/badge/css-blue)
 
 
 
