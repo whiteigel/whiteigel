@@ -7,6 +7,7 @@
 ![Grafana](https://img.shields.io/badge/-grafana-f46800?logo=grafana&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-ansible-EE0000?logo=ansible&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/-ubiquiti-0559C9?logo=ubiquiti&logoColor=white)
 
 
 ### Dev
